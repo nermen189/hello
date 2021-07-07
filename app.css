@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*make the background image of the body (the photo i choose)*/
+@media(max-width:768px){
+body{
+    background: url("https://image.freepik.com/free-vector/sunset-nature-view_1308-24719.jpg") rgba(0, 0, 1, 0.6);
+    width:100%;
+    background-blend-mode: color-dodge;
+    
+}
+}
